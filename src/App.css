@@ -31,6 +31,13 @@
   padding: 20px 40px;
 }
 
+@media (max-width: 376px) {
+    .jumbotron {
+        padding: 20px;
+        font-size: 12px!important;
+    }
+}
+
 .jumbotron-avatar {
   margin-top: 90px;
   background-color: #eee;
@@ -87,6 +94,7 @@
 
 .link {
   color: #3a92c8;
+  overflow-wrap: break-word;
 }
 
 .link:hover {
