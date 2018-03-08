@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.jumbotron {
+  padding: 20px 40px;
+}
+
+.jumbotron-avatar {
+  margin-top: 90px;
+  background-color: #eee;
+}
+
+.avatar {
+  height: 140px;
+  width: 140px;
+  border: solid 1px #eee;
+  border-radius: 70px;
+  transition: 2s ease-in-out;
+}
+
+.avatar:hover {
+  transform: rotate(360deg);
+}
+
+#console {
+  background-color: #383737;
+  font-family: 'Monaco', 'Courier New';
+  color: #fafafa;
+  text-align: left;
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  border-top: solid 15px #fff;
+  border-bottom: solid 15px #fff;
+}
+
+.category {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sub-category {
+  padding-left: 18px;
+  color: #ccc;
+  transition: all 1s ease-in-out;
+}
+
+.sub-category:hover, .sub-sub-category:hover {
+  transform: translateX(10px);
+}
+
+.sub-sub-category {
+  padding-left: 36px;
+  color: #ccc;
+  transition: all 1s ease-in-out;
+}
+
+.bracket {
+  transition: none!important;
+  transform: none!important;
+}
+
+.link {
+  color: #3a92c8;
+}
+
+.link:hover {
+  color: #3a92c8;
+}
+

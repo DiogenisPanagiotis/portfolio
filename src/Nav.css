@@ -1,0 +1,26 @@
+.navbar {
+	border-bottom: solid 1px #eee;
+	background-color: #fff!important;
+}
+
+.nav-link {
+	font-family: 'Roboto', 'sans-serif';
+}
+
+.navbar-toggler {
+	outline: none !important;
+	box-shadow: none !important; 
+}
+
+@media (min-width: 567px) {
+    .abs-center-x {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+.abs-center-x {
+	padding-top: 4px;
+}
