@@ -64,7 +64,7 @@ class App extends Component {
                         <div className="sub-category">
                             =>&nbsp;"
                             <a className="link" target="_blank" href="http://github.com/DiogenisPanagiotis">
-                                github.com/in/DiogenisPanagiotis
+                                github.com/DiogenisPanagiotis
                             </a>
                             "
                         </div>
