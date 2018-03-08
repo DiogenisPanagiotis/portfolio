@@ -28,7 +28,7 @@ class App extends Component {
                     </div>
                     <div className="category">
                         > Diogenis.interests
-                        <div className="sub-category">=> "["code", "technology", "user experience", "gym", "vaca frita"]"</div>
+                        <div className="sub-category">=> ["code", "technology", "user experience", "gym", "vaca frita"]</div>
                     </div>
                     <div className="category">
                         > Diogenis.workExperience
