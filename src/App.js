@@ -33,8 +33,8 @@ class App extends Component {
                     <div className="category">
                         > Diogenis.workExperience
                         <div className="sub-category bracket">{"{"}</div>
-                        <div className="sub-sub-category">company: "IAC Applications"</div>
-                        <div className="sub-sub-category">role: "Software Test Engineer"</div>
+                        <div className="sub-sub-category">company: "Ask Applications"</div>
+                        <div className="sub-sub-category">role: "Software Engineer"</div>
                         <div className="sub-sub-category">team: "Product Optimizations"</div>
                         <div className="sub-sub-category">startDate: "April 2017"</div>
                         <div className="sub-category bracket">{"}"}</div>
